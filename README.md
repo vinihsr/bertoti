@@ -14,7 +14,12 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 
 Dentro do Google, dizemos por vezes: "A engenharia de software é programação integrada ao longo do tempo". A programação é certamente uma parte significativa da engenharia de software: afinal de contas, a programação é a forma como se gera novo software em primeiro lugar. Se aceitar esta distinção, também se torna claro que podemos precisar de delimitar entre tarefas de programação (desenvolvimento) e tarefas de engenharia de software (desenvolvimento, modificação, manutenção). A adição de tempo acrescenta uma nova dimensão importante à programação. Os cubos não são quadrados, a distância não é velocidade. A engenharia de software não é programação.
 
-- package guessinggame;
+-   
+
+
+
+
+package guessinggame;
 import javax.swing.*;
 
 public class App {
