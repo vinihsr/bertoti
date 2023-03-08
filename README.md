@@ -15,3 +15,68 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 Dentro do Google, dizemos por vezes: "A engenharia de software é programação integrada ao longo do tempo". A programação é certamente uma parte significativa da engenharia de software: afinal de contas, a programação é a forma como se gera novo software em primeiro lugar. Se aceitar esta distinção, também se torna claro que podemos precisar de delimitar entre tarefas de programação (desenvolvimento) e tarefas de engenharia de software (desenvolvimento, modificação, manutenção). A adição de tempo acrescenta uma nova dimensão importante à programação. Os cubos não são quadrados, a distância não é velocidade. A engenharia de software não é programação.
 
 -   
+
+
+01)
+
+public class principal {
+    public static void main(String[] args) throws Exception {
+        int y = 6;
+        for (int x = 1; x < y; x++) {
+            System.out.println(x);
+        }
+    }
+}
+
+
+02)
+
+public class principal {
+    public static void main(String[] args) throws Exception {
+        int contador = 1;
+        while (contador <= 5) {
+            System.out.println(contador);
+            contador++;
+        }
+    } 
+}
+
+03)
+
+public class principal {
+    public static void main(String[] args) throws Exception {
+        int contador = 1;
+        do{
+                System.out.println(contador);
+                contador++;
+            } while (contador <= 5);
+    }
+}
+
+04)
+
+public class principal {
+    public static void main(String[] args) throws Exception {
+        int y = 15;
+        for (int x = 0; x < y; x++) {
+            if(x%2 ==0){
+                System.out.println(x);
+            }
+        }
+    }
+}
+
+05)
+
+public class principal {
+    public static void main(String[] args) throws Exception {
+        int y = 0;
+        for (int x = 0; x < 11 ; x++) {
+            y = y + x;
+            }
+        System.out.println(y);
+        }
+    }
+
+06)
+
