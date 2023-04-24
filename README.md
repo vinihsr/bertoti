@@ -22,3 +22,4 @@ Dentro do Google, dizemos por vezes: "A engenharia de software é programação 
 -  é comum ouvirmos a frase: "A engenharia de software é a programação integrada ao longo do tempo". Isso significa que, embora a programação seja uma parte essencial da engenharia de software, ela não é a única. É necessário distinguir entre as tarefas de programação (como desenvolvimento de software) e as tarefas de engenharia de software (como modificação e manutenção do software). Além disso, o tempo é um elemento importante na engenharia de software, pois envolve a criação, modificação e manutenção de software ao longo do tempo. Portanto, a engenharia de software não pode ser reduzida apenas à programação. Assim como os cubos não são quadrados e a distância não é velocidade, a engenharia de software é muito mais do que apenas programação.
 
 
+https://www.youtube.com/watch?v=UjQO3HSd6Ys
