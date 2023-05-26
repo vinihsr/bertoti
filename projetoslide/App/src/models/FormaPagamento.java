@@ -19,6 +19,6 @@ public class FormaPagamento {
     }
 
     public void efetuarPagamento(float total) {
-        // Lógica para efetuar o pagamento
+        
     }
 }
