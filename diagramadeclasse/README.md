@@ -16,6 +16,14 @@ Dentro do Google, dizemos por vezes: "A engenharia de software é programação 
 
 -  é comum ouvirmos a frase: "A engenharia de software é a programação integrada ao longo do tempo". Isso significa que, embora a programação seja uma parte essencial da engenharia de software, ela não é a única. É necessário distinguir entre as tarefas de programação (como desenvolvimento de software) e as tarefas de engenharia de software (como modificação e manutenção do software). Além disso, o tempo é um elemento importante na engenharia de software, pois envolve a criação, modificação e manutenção de software ao longo do tempo. Portanto, a engenharia de software não pode ser reduzida apenas à programação. Assim como os cubos não são quadrados e a distância não é velocidade, a engenharia de software é muito mais do que apenas programação.
 
+Trade-off
+
+Pergunta: O que é um trade-off no projeto da API do segundo semestre?
+
+Resposta: A exigência de desenvolvimento de software para desktop não permite que os clientes abram o projeto em um navegador ou o utilizem em dispositivos móveis. No entanto, o software de desktop permite que os clientes tenham flexibilidade em seus aplicativos.
+
+============================================================================================
+
 ![image](https://github.com/vinicius123henrique321/bertoti/assets/112169674/da98107a-b6f4-4803-b145-d64c261e625d)
 
 
