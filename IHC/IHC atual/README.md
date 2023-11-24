@@ -45,14 +45,14 @@
 <div>
   <img id= "printScreen" src= "Img/exemplo8.png" width= "1000px">
 </div>
-<p>O siga</p>
+<p>O siga possui um sistema de apresentação muito poluído e mal subdividido, onde o usuário não precisa se esforçar para achar, pois está tudo na mesma tela, porém possui dificuldade de entender certas coisas.</p>
 
 ### Possível solução
 
 <p>
   <ul>
-    <li>a</li>
-    <li>a</li>
+    <li>A construção de um menu  lateral dinâmico e mais simples.</li>
+    <li>definição de outras páginas com auxílio para os usuários.</li>
   </ul>
 </p>
 
@@ -65,14 +65,14 @@
 <div>
   <img id= "printScreen" src= "Img/exemplo7.png" width= "1000px">
 </div>
-<p>O siga </p>
+<p>O siga não possui nenhum atalho para usuários experientes, e mesmo não ajudando os experientes, ainda assim, não consegue auxiliar os usuários novatos.</p>
 
 ### Possível solução
 
 <p>
   <ul>
-    <li>a</li>
-    <li>a</li>
+    <li>Adição de atalhos uteís, via teclado.</li>
+    <li>Definição de novas funcionalidades para usuários novatos, como um mecanismo de auxílio em cada parte complexa.</li>
   </ul>
 </p>
 
@@ -85,14 +85,14 @@
 <div>
   <img id= "printScreen" src= "Img/exemplo6.png" width= "1000px">
 </div>
-<p>O</p>
+<p>O siga não só deixa de indicar seu progresso em certos processos, como deixa de indicar onde você está atualmente na página.</p>
 
 ### Possível solução
 
 <p>
   <ul>
-    <li>a</li>
-    <li>a</li>
+    <li>Marcar o local atual do usuário.</li>
+    <li>Definir quais foram os passos dados pelo usuário para que o mesmo tenha acesso a informação.</li>
   </ul>
 </p>
 
@@ -105,16 +105,7 @@
 <div>
   <img id= "printScreen" src= "Img/exemplo5.png" width= "1000px">
 </div>
-<p>O siga a</p>
-
-### Possível solução
-
-<p>
-  <ul>
-    <li>a</li>
-    <li>a</li>
-  </ul>
-</p>
+<p>Aqui podemos ver como a ferramenta de pesquisa "Google" fornece muito bem a quinta heurística de Nielsen.</p>
 
 <br>
 
@@ -125,14 +116,14 @@
 <div>
   <img id= "printScreen" src= "Img/exemplo4.png" width= "1000px">
 </div>
-<p>O siga</p>
+<p>O siga é cheio de imparcialidades em relação aos padrões visuais, sempre alternando...</p>
 
 ### Possível solução
 
 <p>
   <ul>
-    <li>a</li>
-    <li>a</li>
+    <li>Definir um único pardrão para o site.</li>
+    <li>Manter tudo dentro de uma mesma pleta de cores.</li>
   </ul>
 </p>
 
@@ -142,19 +133,9 @@
 
 ### "Forneça aos usuários a capacidade de desfazer ações e navegar facilmente, oferecendo um senso de controle sobre o sistema".
 
-<div>
-  <img id= "printScreen" src= "Img/exemplo3.png" width= "1000px">
-</div>
-<p>a</p>
+<p>Esse será sem exemplo visual, porém com um exemplo prático. Usaremos o Twitter como parâmetro, é comum que possamos apagar um tweet se quisermos, mas não podemos editá-los, e por que? pelo simples motivo de isso poderia impactar em outras funcionalidades.</p>
 
 ### Possível solução
-
-<p>
-  <ul>
-    <li>a</li>
-    <li>a</li>
-  </ul>
-</p>
 
 <br>
 
@@ -165,14 +146,14 @@
 <div>
   <img id= "printScreen" src= "Img/exemplo2.png" width= "1000px">
 </div>
-<p>O a</p>
+<p>O siga possui varios botões contra intuítivos e que não levam a lugar nenhum, e com um único requisito dessa heurística, sendo ela a relação da ccor vermelha com mensagens de erro ou de perigo.</p>
 
 ### Possível solução
 
 <p>
   <ul>
-    <li>a</li>
-    <li>a</li>
+    <li>Melhorar a relação do hardware com o sistema em si.</li>
+    <li>Revisar o que seriam esses termos familiares e implementá-los</li>
   </ul>
 </p>
 
@@ -185,13 +166,4 @@
 <div>
   <img id= "printScreen" src= "Img/exemplo1.png" width= "1000px">
 </div>
-<p>O siga</p>
-
-### Possível solução
-
-<p>
-  <ul>
-    <li>a</li>
-    <li>a</li>
-  </ul>
-</p>
+<p>O youtube é um exemplo clássico de como dar um feedback super intuitivo a seus usuários. Sempre fornecendo uma boa visualização de etapas.</p>
