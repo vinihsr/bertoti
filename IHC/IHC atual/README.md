@@ -83,7 +83,7 @@
 ### "Minimize a carga cognitiva do usuário, apresentando informações necessárias e eliminando a necessidade de memorização excessiva".
 
 <div>
-  <img id= "printScreen" src= "Img/exemplo6.png" width= "1000px">
+  <img id= "printScreen" src= "Img/exemplo6.PNG" width= "1000px">
 </div>
 <p>O siga não só deixa de indicar seu progresso em certos processos, como deixa de indicar onde você está atualmente na página.</p>
 
@@ -114,7 +114,7 @@
 ### "Mantenha consistência na interface, seguindo convenções e padrões de design já estabelecidos".
 
 <div>
-  <img id= "printScreen" src= "Img/exemplo4.png" width= "1000px">
+  <img id= "printScreen" src= "Img/exemplo4.PNG" width= "1000px">
 </div>
 <p>O siga é cheio de imparcialidades em relação aos padrões visuais, sempre alternando...</p>
 
@@ -144,7 +144,7 @@
 ### "Utilize linguagem e conceitos familiares ao usuário, tornando a interface consistente com o mundo real".
 
 <div>
-  <img id= "printScreen" src= "Img/exemplo2.png" width= "1000px">
+  <img id= "printScreen" src= "Img/exemplo2.PNG" width= "1000px">
 </div>
 <p>O siga possui varios botões contra intuítivos e que não levam a lugar nenhum, e com um único requisito dessa heurística, sendo ela a relação da ccor vermelha com mensagens de erro ou de perigo.</p>
 
@@ -164,6 +164,6 @@
 ### "Mantenha os usuários informados sobre o que está acontecendo, fornecendo feedback adequado sobre suas ações".
 
 <div>
-  <img id= "printScreen" src= "Img/exemplo1.png" width= "1000px">
+  <img id= "printScreen" src= "Img/exemplo1.PNG" width= "1000px">
 </div>
 <p>O youtube é um exemplo clássico de como dar um feedback super intuitivo a seus usuários. Sempre fornecendo uma boa visualização de etapas.</p>
