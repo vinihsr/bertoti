@@ -25,14 +25,14 @@
 <div>
   <img id= "printScreen" src= "Img/exemplo9.png" width= "1000px">
 </div>
-<p>O siga não oferece nenhuma ajuda ou informação em relação a problemas ou dificuldades de uso para seus usuários. Dificultando o acesso, utilização e ajuda.</p>
+<p>O siga não oferece ajuda, porém não define certamente qual seria o erro que seria previsto, sem contar com os problemas de recuperação de senha.</p>
 
 ### Possível solução
 
 <p>
   <ul>
-    <li>Adicionar um FAQ : Frequently Asked Questions, ou Pergunta Frequentes.</li>
-    <li>Melhorar o acesso a documentação de forma limpa e explícita</li>
+    <li>Esclarecer os possíveis erros de forma em que o usuário tenha noção.</li>
+    <li>Tratar dos bugs em relação ao sistemas de rotas.</li>
   </ul>
 </p>
 
@@ -45,14 +45,14 @@
 <div>
   <img id= "printScreen" src= "Img/exemplo8.png" width= "1000px">
 </div>
-<p>O siga não oferece nenhuma ajuda ou informação em relação a problemas ou dificuldades de uso para seus usuários. Dificultando o acesso, utilização e ajuda.</p>
+<p>O siga</p>
 
 ### Possível solução
 
 <p>
   <ul>
-    <li>Adicionar um FAQ : Frequently Asked Questions, ou Pergunta Frequentes.</li>
-    <li>Melhorar o acesso a documentação de forma limpa e explícita</li>
+    <li>a</li>
+    <li>a</li>
   </ul>
 </p>
 
@@ -65,14 +65,14 @@
 <div>
   <img id= "printScreen" src= "Img/exemplo7.png" width= "1000px">
 </div>
-<p>O siga não oferece nenhuma ajuda ou informação em relação a problemas ou dificuldades de uso para seus usuários. Dificultando o acesso, utilização e ajuda.</p>
+<p>O siga </p>
 
 ### Possível solução
 
 <p>
   <ul>
-    <li>Adicionar um FAQ : Frequently Asked Questions, ou Pergunta Frequentes.</li>
-    <li>Melhorar o acesso a documentação de forma limpa e explícita</li>
+    <li>a</li>
+    <li>a</li>
   </ul>
 </p>
 
@@ -85,14 +85,14 @@
 <div>
   <img id= "printScreen" src= "Img/exemplo6.png" width= "1000px">
 </div>
-<p>O siga não oferece nenhuma ajuda ou informação em relação a problemas ou dificuldades de uso para seus usuários. Dificultando o acesso, utilização e ajuda.</p>
+<p>O</p>
 
 ### Possível solução
 
 <p>
   <ul>
-    <li>Adicionar um FAQ : Frequently Asked Questions, ou Pergunta Frequentes.</li>
-    <li>Melhorar o acesso a documentação de forma limpa e explícita</li>
+    <li>a</li>
+    <li>a</li>
   </ul>
 </p>
 
@@ -105,14 +105,14 @@
 <div>
   <img id= "printScreen" src= "Img/exemplo5.png" width= "1000px">
 </div>
-<p>O siga não oferece nenhuma ajuda ou informação em relação a problemas ou dificuldades de uso para seus usuários. Dificultando o acesso, utilização e ajuda.</p>
+<p>O siga a</p>
 
 ### Possível solução
 
 <p>
   <ul>
-    <li>Adicionar um FAQ : Frequently Asked Questions, ou Pergunta Frequentes.</li>
-    <li>Melhorar o acesso a documentação de forma limpa e explícita</li>
+    <li>a</li>
+    <li>a</li>
   </ul>
 </p>
 
@@ -125,14 +125,14 @@
 <div>
   <img id= "printScreen" src= "Img/exemplo4.png" width= "1000px">
 </div>
-<p>O siga não oferece nenhuma ajuda ou informação em relação a problemas ou dificuldades de uso para seus usuários. Dificultando o acesso, utilização e ajuda.</p>
+<p>O siga</p>
 
 ### Possível solução
 
 <p>
   <ul>
-    <li>Adicionar um FAQ : Frequently Asked Questions, ou Pergunta Frequentes.</li>
-    <li>Melhorar o acesso a documentação de forma limpa e explícita</li>
+    <li>a</li>
+    <li>a</li>
   </ul>
 </p>
 
@@ -145,14 +145,14 @@
 <div>
   <img id= "printScreen" src= "Img/exemplo3.png" width= "1000px">
 </div>
-<p>O siga não oferece nenhuma ajuda ou informação em relação a problemas ou dificuldades de uso para seus usuários. Dificultando o acesso, utilização e ajuda.</p>
+<p>a</p>
 
 ### Possível solução
 
 <p>
   <ul>
-    <li>Adicionar um FAQ : Frequently Asked Questions, ou Pergunta Frequentes.</li>
-    <li>Melhorar o acesso a documentação de forma limpa e explícita</li>
+    <li>a</li>
+    <li>a</li>
   </ul>
 </p>
 
@@ -165,14 +165,14 @@
 <div>
   <img id= "printScreen" src= "Img/exemplo2.png" width= "1000px">
 </div>
-<p>O siga não oferece nenhuma ajuda ou informação em relação a problemas ou dificuldades de uso para seus usuários. Dificultando o acesso, utilização e ajuda.</p>
+<p>O a</p>
 
 ### Possível solução
 
 <p>
   <ul>
-    <li>Adicionar um FAQ : Frequently Asked Questions, ou Pergunta Frequentes.</li>
-    <li>Melhorar o acesso a documentação de forma limpa e explícita</li>
+    <li>a</li>
+    <li>a</li>
   </ul>
 </p>
 
@@ -185,13 +185,13 @@
 <div>
   <img id= "printScreen" src= "Img/exemplo1.png" width= "1000px">
 </div>
-<p>O siga não oferece nenhuma ajuda ou informação em relação a problemas ou dificuldades de uso para seus usuários. Dificultando o acesso, utilização e ajuda.</p>
+<p>O siga</p>
 
 ### Possível solução
 
 <p>
   <ul>
-    <li>Adicionar um FAQ : Frequently Asked Questions, ou Pergunta Frequentes.</li>
-    <li>Melhorar o acesso a documentação de forma limpa e explícita</li>
+    <li>a</li>
+    <li>a</li>
   </ul>
 </p>
