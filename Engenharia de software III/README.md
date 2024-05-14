@@ -1,9 +1,48 @@
 # Engenharia de Software III
-<h3>Strategy</h3>
-<h3>Observer</h3>
-<h3>Composite</h3>
-<h3>Singleton</h3>
-<h3>Facade</h3>
+<table>
+    <tr>
+        <th>Tipos de Padrões</th>
+        <th>Antipadrões</th>
+        <th>Definição</th>
+        <th>O que resolve</th>
+        <th>Funcionalidades em Java</th>
+    </tr>
+    <tr>
+        <td>Strategy</td>
+        <td>Switch Statements</td>
+        <td>O Padrão Strategy permite definir uma família de algoritmos intercambiáveis, útil quando diferentes algoritmos podem ser usados.</td>
+        <td>Resolve a seleção dinâmica de algoritmos, sem modificar o código cliente.</td>
+        <td>Java Comparable/Comparator</td>
+    </tr>
+    <tr>
+        <td>Observer</td>
+        <td>Observers Everywhere</td>
+        <td>O Padrão Observer estabelece uma dependência um-para-muitos entre objetos, usado para implementar sistemas de eventos.</td>
+        <td>Lida com a notificação automática de mudanças de estado para múltiplos objetos dependentes.</td>
+        <td>Event Handling</td>
+    </tr>
+    <tr>
+        <td>Composite</td>
+        <td>Unintentional Complexity</td>
+        <td>O Padrão Composite permite tratar objetos individuais e composições de objetos de maneira uniforme.</td>
+        <td>Resolve a criação de estruturas hierárquicas compostas.</td>
+        <td>Swing GUI Components</td>
+    </tr>
+    <tr>
+        <td>Facade</td>
+        <td>God Class</td>
+        <td>O Padrão Facade fornece uma interface simplificada para subsistemas complexos.</td>
+        <td>Aborda a complexidade de subsistemas, oferecendo um ponto de entrada único para os clientes.</td>
+        <td>Java Database Connectivity (JDBC)</td>
+    </tr>
+    <tr>
+        <td>Singleton</td>
+        <td>Global State</td>
+        <td>O Padrão Singleton garante uma única instância de uma classe e acesso global a ela.</td>
+        <td>Resolve a criação acidental de múltiplas instâncias e controla o acesso global a recursos.</td>
+        <td>Runtime Environment (Ambiente de Execução)</td>
+    </tr>
+</table>
 
 ### (Diagramas UML e Códigos Referentes aos Design Patterns aprendidos na Aula)
 
