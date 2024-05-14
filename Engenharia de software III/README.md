@@ -11,7 +11,7 @@
 - ### Strategy
 
     <div>
-    <img src='../Engenharia de software III/Diagrams/imgs/Strategy.jpg'> </img>
+    <img src='../Engenharia de software III/Diagrams/strategy/Strategy.jpg'> </img>
     </div>
 
 
@@ -110,7 +110,7 @@ class Movie {
 - ### Observer
 
     <div>
-    <img src='../Engenharia de software III/Diagrams/imgs/Observer.jpg'> </img>    
+    <img src='../Engenharia de software III/Diagrams/observer/Observer.jpg'> </img>    
     </div>
 
 ```java 
@@ -186,7 +186,7 @@ class Movie {
 - ### Composite
 
     <div>
-    <img src='../Engenharia de software III/Diagrams/imgs/Composite.jpg'> </img>    
+    <img src='../Engenharia de software III/Diagrams/composite/Composite.jpg'> </img>    
     </div>
 
 
@@ -259,7 +259,7 @@ public class DemoComposite {
 - ### Singleton
 
     <div>
-    <img src='../Engenharia de software III/Diagrams/imgs/Singleton.jpg'> </img>
+    <img src='../Engenharia de software III/Diagrams/singleton/Singleton.jpg'> </img>
     </div>
 
 ```java
@@ -296,7 +296,7 @@ public class ConexaoBD {
 - ### Facade
 
     <div>
-    <img src='../Engenharia de software III/Diagrams/imgs/Facade.jpg'> </img>
+    <img src='../Engenharia de software III/Diagrams/facade/Facade.jpg'> </img>
     </div>
 
 ```java
