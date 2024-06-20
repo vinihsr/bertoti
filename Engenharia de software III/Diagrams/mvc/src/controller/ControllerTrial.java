@@ -1,8 +1,8 @@
-public class Controller implements ControllerInterface {
+public class ControllerTrial implements ControllerInterface {
     private View view;
     private Subject model;
 
-    public Controller(View view, Subject model) {
+    public ControllerTrial(View view, Subject model) {
         this.view = view;
         this.model = model;
     }
